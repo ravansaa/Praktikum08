@@ -47,3 +47,5 @@ Disini juga ada pertanyaan Y/T Jika memilih Y user akan di bawa kembali ke menu 
 ![Gambar](Foto/ss11.png)
 #### Berikut Contoh Penggunaan Kode 5. eluar
 ![Gambar](Foto/ss12.png)
+
+### Disini Saya belum bisa membuat Diagram class karna masih belum paham, mohon maaf pak dosen
