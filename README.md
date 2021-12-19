@@ -24,6 +24,7 @@ guna fungsi ini untuk menghapus data yang sudah kita input
 "5" untuk fungsi Keluar
 guna fungsi ini untuk keluar dari program
 
+Disini juga ada pertanyaan Y/T Jika memilih Y user akan di bawa kembali ke menu dan T akan mengakhiri Program
 #### Berikut Cara Kerja Berdasarkan Flowchartnya
 ![Gambar](Foto/Flowchart.png)
 #### Berikut Bentuk dari Code Python Nya
